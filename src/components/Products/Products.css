@@ -1,0 +1,37 @@
+.allItems {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 40px;
+} 
+
+.item-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+    transition: all 1s;
+    border: 1px solid rgb(214, 214, 214);
+    cursor: pointer;
+    padding: 20px;
+}
+
+.item-block:hover {
+    border: 2px solid rgb(240, 166, 166);
+}
+
+.item-block:hover .image {
+    transform: translate(-1.5rem, -3.5rem) rotate(-10deg)
+}
+
+.title {
+    text-align: start;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.image {
+    transition: all 1s;
+    width: 350px;
+}
+

@@ -1,0 +1,95 @@
+.details-block {
+	display: flex;
+	justify-content: center;
+	padding: 70px;
+}
+
+.single-item {
+	display: flex;
+	margin-bottom: 40px;
+}
+
+.right-set button {
+    padding: 5px;
+    width: 80px;
+    background-color: white;
+	border: 2px solid rgb(189, 153, 153);
+	border-radius: 5px;
+}
+
+.right-set button:hover {
+    padding: 5px;
+    width: 80px;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid #000000;
+    color: white;
+}
+
+.brand {
+	margin-bottom: 80%;
+}
+
+.price {
+	font-size: 25px;
+	font-weight: 700;
+}
+
+.description-block h5{
+	display: inline-block;
+	padding: 5px;
+	font-weight: 600;
+	background-color: rgb(189, 153, 153);
+}
+
+.description {
+	margin-bottom: 30px;
+}
+
+.comments-block input{
+	display: block;
+	padding: 5px;
+	margin: 7px 0;
+	border: 2px solid rgb(189, 153, 153);
+}
+
+.comments-block input:last-child{
+	display: block;
+	border: 2px solid rgb(189, 153, 153);
+}
+
+.comments-list-block {
+	display: flex;
+	border: 2px solid rgb(189, 153, 153);
+	border-radius: 10px;
+	margin: 20px 0;
+}
+
+.user__icon {
+	width: 8%;
+}
+
+.comment__item {
+	list-style-type: none;
+}
+
+.area {
+	width: 100%;
+	border: 2px solid rgb(189, 153, 153);
+	border-radius: 5px;
+}
+
+.btn-comment{
+	padding: 5px;
+    width: 80px;
+    background-color: white;
+	border: 2px solid rgb(189, 153, 153);
+	border-radius: 5px;
+}
+
+.btn-comment:hover {
+    padding: 5px;
+    width: 80px;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid #000000;
+	color: white;
+}

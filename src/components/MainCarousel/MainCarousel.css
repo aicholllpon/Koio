@@ -1,0 +1,17 @@
+.carousel{
+    height: 100%;
+    margin-bottom: -25px;
+}
+
+.carousel__image3 img {
+    background-size: cover;
+    width: 100%;
+}
+
+.carousel__image3{
+    height: 500px;
+}
+
+.carousel__image1 img, .carousel__image2 img{
+    width: 100%;
+}

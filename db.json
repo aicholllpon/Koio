@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0646/1285/products/Perf-ProductPageImages-Women-02_400x.jpg?v=1593121151",
+      "title": "Women's Capri Triple ",
+      "description": "unlimited dimension with a fully perforated upper. Step in and out of any world you inhabit with total ease. One to file under essential for seasons/years to come.",
+      "price": "268",
+      "category": "Women",
+      "color": "white",
+      "comments": [],
+      "id": 1
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0646/1285/products/Perf-ProductPageImages-Men-01_400x.jpg?v=1593121209",
+      "title": "Men's Capri Triple ",
+      "description": "The power of texture. Our bestselling style finds an unlimited dimension with a fully perforated upper. Step in and out of any world you inhabit with total ease. One to file under essential for seasons/years to come.",
+      "price": "268",
+      "category": "Men",
+      "color": "white",
+      "comments": [],
+      "id": 2
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0646/1285/products/SS20-DD3_400x.jpg?v=1593121519",
+      "title": "Women's Capri Rose Cloud",
+      "description": "Soft and subtle yet powerful enough to make a statement. Crafted from extremely durable Italian calf suede the Capri Rose Cloud sits atop a Margom gum sole, one of the best in the business. Capri is built for whatever life throws your way—springtime now included. ",
+      "price": "268",
+      "category": "Women",
+      "color": "pink",
+      "comments": [],
+      "id": 3
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0646/1285/products/Metro-PDPimages7_400x.png?v=1602695291",
+      "title": "Men's Verse",
+      "description": "If subtlety is an art, Verso is a maestro. In Italian calf leather, it’s mid-top cut is designed to slim the foot. The result: peak sophistication, always. Wear on repeat from work to Sunday brunch.",
+      "price": "278",
+      "category": "Men",
+      "color": "white",
+      "comments": [],
+      "id": 4
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0646/1285/products/Metro-PDPimages4_400x.png?v=1607102435",
+      "title": "Men's Metro Cream",
+      "description": "The shoes match with everything and they’re very comfortable, they don’t give you blisters and they’re not hard to break in. I went a half size up bc of some reviews I read and they fit me perfectly.",
+      "price": "248",
+      "category": "Men",
+      "color": "cream",
+      "comments": [],
+      "id": 5
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/0646/1285/products/Metro-PDPimages13_400x.png?v=1602598056",
+      "title": "VERSE WHITE",
+      "description": "If subtlety is an art, Verso is a maestro. In white Italian calf leather, it’s mid-top cut is designed to slim the foot. The result: peak sophistication, always. Wear on repeat from work to Sunday brunch.",
+      "price": "278",
+      "category": "Women",
+      "color": "white",
+      "comments": [],
+      "id": 6
+    },
+    {
+      "image": "https://cdn-images.farfetch-contents.com/12/09/19/28/12091928_9834502_480.jpg",
+      "title": "CAPRI SLATE MESHI",
+      "description": "These sneakers just became your go-to staple piece. They will seamlessly fit into any wardrobe with its ability to compliment every outfit you put together. It’s a good thing they are made with premium Italian leather because you’ll never want to take them off.",
+      "price": "543",
+      "category": "Uni",
+      "color": "brown",
+      "comments": [],
+      "id": 7
+    },
+    {
+      "image": "https://cdn-images.farfetch-contents.com/12/52/29/50/12522950_11833619_480.jpg",
+      "title": "CAPRI PRIMO CINEMA ",
+      "description": "The perfect Sunday afternoon. This classic blue is the epitome of a summer morning. It’s smooth leather upper gives it a classic finish, with unique white detailing on the heel. The Capri Sky Blue will lift you to cloud nine. Where will you go from there?",
+      "price": "615",
+      "category": "Uni",
+      "color": "white",
+      "comments": [],
+      "id": 8
+    }
+  ]
+}

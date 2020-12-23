@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;600;700;900&display=swap');
+
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+
+.cart {
+    display: flex;
+    justify-content: center;
+    padding: 100px 0;
+    background-color: rgba(245, 245, 245, 0.315);
+}
+
+.cart h3 {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+
+.product-block {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    padding: 15px;
+    border-bottom: 1px solid rgb(187, 186, 186);
+    background-color:  #f6e5d1;
+}
+
+
+.product-block img {
+    width: 15%;
+}
+
+.product__count {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product__cost {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cost {
+    font-weight: 600;
+}
+
+.product-block input {
+    display: inline-block;
+    border: 1px solid rgb(161, 161, 161);
+    border-radius: 5px;
+    text-align: center;
+    width: 50%;
+}
+
+.cart h4 {
+    margin-top: 30px;
+    text-align: end;
+}
+
+.product__count input{
+    background-color: white;
+    border: 2px solid #faba75;
+}
+
+.product__count input:hover {
+    background-color: black;
+    border: black;
+    color: white;
+}
+
+.cart button {
+    padding: 8px;
+    width: 10%;
+    background-color: white;
+    border: 2px solid #faba75;
+    border-radius: 5px;
+    transition: all 0.1s;
+}
+
+.cart button:hover {
+    background-color: #000000;
+    color: white;
+    border: black;
+}
+
+
+@media screen and (max-width: 600px){
+    .cart h3 {
+        text-align: center;
+    }
+    .cart h4 {
+        text-align: center;
+    }
+    .cart button {
+        display: block;
+        margin: 0 auto;
+        width: 40%;
+    }
+}
+
+
+@media screen and (max-width: 430px){
+    .product-block {
+        flex-direction: column;
+        align-items: center;
+    }
+    .product-block h5 {
+        margin-left: 0;
+    }
+    .product-block img {
+        width: 25%;
+    }
+    .product__count p {
+        margin: 5px;
+    }
+    .product__cost p:first-child {
+        margin: 10px 0 0 0;  
+    }
+    .product__cost p:first-child:after {
+        content: ':';
+        margin: 10px 0;  
+    }
+
+}
